@@ -1,0 +1,4 @@
+PrevisaoTempo.Droid.MainActivity, PrevisaoTempo.Droid;md5a07252e992f5169794fc44e2f674f696.MainActivity
+PrevisaoTempo.Droid.MainActivity, PrevisaoTempo.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a07252e992f5169794fc44e2f674f696.MainActivity
+PrevisaoTempo.Droid.MainActivity;md5a07252e992f5169794fc44e2f674f696.MainActivity
+previsaotempo.droid.MainActivity;md5a07252e992f5169794fc44e2f674f696.MainActivity

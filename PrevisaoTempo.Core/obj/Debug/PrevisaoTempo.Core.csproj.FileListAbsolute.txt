@@ -1,0 +1,9 @@
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\bin\Debug\PrevisaoTempo.Core.dll
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\bin\Debug\PrevisaoTempo.Core.pdb
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\obj\Debug\PrevisaoTempo.Core.dll
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\obj\Debug\PrevisaoTempo.Core.pdb
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\obj\Debug\PrevisaoTempo.Core.csprojResolveAssemblyReference.cache
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\obj\Debug\PrevisaoTempo.Core.dll.mdb
+C:\Users\it4cio\Documents\Visual Studio 2015\Projects\PrevisaoTempo\PrevisaoTempo.Core\bin\Debug\PrevisaoTempo.Core.dll.mdb
